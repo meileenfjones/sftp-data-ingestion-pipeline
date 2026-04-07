@@ -1,0 +1,6 @@
+pykeepass>=4.0.3
+paramiko>=3.4.0
+pandas>=2.0.0
+SQLAlchemy>=2.0.8
+psycopg2>=2.9.6
+prefect==3.1.0
